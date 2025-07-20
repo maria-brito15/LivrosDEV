@@ -1,7 +1,5 @@
 # 📚 Biblioteca de Livros para Desenvolvedores
 
-Este repositório foi criado com o objetivo de reunir e disponibilizar uma coleção abrangente de livros relacionados à Tecnologia da Informação, Desenvolvimento de Software, Ciência da Computação e áreas correlatas.
-
 ## Livros Disponiveis
 
 | **Título**                                                                       | **Autor(es)**                     | **Resumo**                                                                                                                                |
